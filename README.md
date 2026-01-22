@@ -1,4 +1,4 @@
-# GCCIZARDRY ~ C++ DRPG GAME ~　
+# GCCIZARDRY  ~ C++ DRPG GAME ~　
 このゲームはC++を学ぶために作成しました。  
 使用技術  
 - C++  
