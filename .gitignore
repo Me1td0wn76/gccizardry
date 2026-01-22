@@ -1,0 +1,8 @@
+#build exe
+*.exe
+#build object files
+*.o
+#build libraries
+*.lib
+#build debug files
+*.pdb

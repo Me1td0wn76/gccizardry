@@ -1,0 +1,22 @@
+wizard/magicfighter
+{
+    (name:level/effect/Place_of_use/damage/amount_of_enemies_hit/success_rate)
+    Fireball:1/-/B/2/S/50,
+    Ice_Shard:2/-/B/2/S/40,
+    Sleep:1/Sleep/B/-/A/35,
+    fire_sparks:2/-/B/5/S/50,
+    lightning_bolt:3/-/B/3/S/45,
+    earthquake:4/-/A/4/A/30,
+    blinding_flash:2/Blind/B/-/A/40,
+    Poison_Mist:3/Poison/B/-/A/35,
+}
+cleric
+{
+    (name:level/effect/Place_of_use/heal_rate/success_rate)
+    Heal:1/-/A/2/100,
+    Greater_Heal:3/-/A/5/100,
+    Cure_Blindness:2/Blind/A/-/100,
+    Cure_Poison:2/Poison/A/-/100,
+    Resurrection:5/Revive/A/-/15,
+    light:1/light/A/-/100,
+}

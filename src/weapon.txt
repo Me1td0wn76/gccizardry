@@ -1,0 +1,44 @@
+warrior/knight/magicfighter/cleric
+{
+    (name:damage/Hit_rate/Number_of_attacks/range/special_effect/Probability_of_instant_death)
+    Ironsword:2/20/1/S/-/0,
+    silver_sword:3/25/1/S/G/0,
+    dull_katana:2/20/1/S/-/1,
+    wooden_stick:1/5/1/S/-/0,
+    dragon_buster:5/25/2/S/D/0,
+    fire_sword:3/25/1/S/-/0,
+    water_sword:3/30/1/S/-/0,
+    wind_sword:2/25/2/S/-/0,
+    dark_sword:1/10/1/S/L/15,
+}
+wizard/magic_fighter/cleric
+{
+    (name:magic_damage/Spell_success_rate)
+    Staff:1/5,
+    IronStaff:2/10,
+    GoldenStaff:5/15,
+    world_tree_staff:5/30,
+    fire_staff:3/20,
+    water_staff:3/25,
+    Necronomicon:20/-20,
+    Apprentice_Spellbook:5/20,
+    General_Spellbook:8/25,
+    Royal_Capital_Magic_Academy_Textbook:10/30,
+    Royal_Army_General_Spellbook:15/35,
+}
+Samurai/thief
+{
+    (name:damage/Hit_rate/Number_of_attacks/range/special_effect/Probability_of_instant_death)
+    Short_Sword:2/20/1/S/-/2,
+    Poisoned_Dagger:2/25/1/S/Poison/5,
+    Throwing_Knife:2/20/2/S/-/0,
+    katana:3/35/2/S/-/5,
+    bamboo_sword:1/10/1/S/-/0,
+    ninja_star:2/30/3/S/-/1,
+    silver_katana:4/40/2/S/G/5,
+    tachi_katana:5/45/2/S/-/10,
+    Wakizashi:3/30/2/S/-/3,
+    Yasutsuna_Dojikiri:6/50/2/S/D/15,
+    Mikazuki Munechika:7/55/2/S/L/20,
+    Onimaru Kunitsuna:8/60/2/S/D/25,
+    }
